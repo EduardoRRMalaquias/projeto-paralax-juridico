@@ -1,108 +1,108 @@
-@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500;600;700;800&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500;600;700;800&display=swap");
 
-body, html{
-    margin: 0;
-    padding: 0;
-    font-family: Helvetica, Arial, sans-serif;
+body,
+html {
+  margin: 0;
+  padding: 0;
+  font-family: Helvetica, Arial, sans-serif;
 }
 
-.secao-topo{
-    border-bottom: 1px solid #d5d5d5;
+.secao-topo {
+  border-bottom: 1px solid #d5d5d5;
 }
 
-.secao-largura-limitada{
-    width: 800px;
-    margin: 0 auto;
+.secao-largura-limitada {
+  width: 800px;
+  margin: 0 auto;
 }
 
-.secao-topo p{
-    padding: 20px;
-    font-size: 32px;
-    font-weight: bold;
-    font-family: 'EB Garamond', serif;
+.secao-topo p {
+  padding: 20px;
+  font-size: 32px;
+  font-weight: bold;
+  font-family: "EB Garamond", serif;
 }
 
-h1, h2, h3{
-    margin: 0;
-    font-family: 'EB Garamond', serif;
+h1,
+h2,
+h3 {
+  margin: 0;
+  font-family: "EB Garamond", serif;
 }
 
-h1{
-    font-weight: 800;
+h1 {
+  font-weight: 800;
 }
 
-h2{
-    font-weight: 400;
+h2 {
+  font-weight: 400;
 }
 
-h3{
-    font-size: 26px;
+h3 {
+  font-size: 26px;
 }
 
-.secao-bakcground-capa{
-    min-height: 500px;
-    background-image: url(img/capa.jpg);
-    background-size: cover;
+.secao-bakcground-capa {
+  min-height: 500px;
+  background-image: url(img/capa.jpg);
+  background-size: cover;
 }
 
-.secao-bakcground-conteudo{
-    text-align: right;
-    padding: 50px 20px;
+.secao-bakcground-conteudo {
+  text-align: right;
+  padding: 50px 20px;
 }
 
 /*secão conteudo*/
 
-.secao-conteudo{
-    padding: 50px 20px;
+.secao-conteudo {
+  padding: 50px 20px;
 }
 
-.img-conteudo{
-    width: 250px;
-    height: 180px;
+.img-conteudo {
+  width: 250px;
+  height: 180px;
 }
 
-.secao-conteudo span{
-    border-left: 1px solid;
-    padding-left: 10px;
-    font-size: 20px;
+.secao-conteudo span {
+  border-left: 1px solid;
+  padding-left: 10px;
+  font-size: 20px;
 }
 
 /*sasao divisoes*/
 
-.secao-background-divisao{
-    padding: 50px 0px;
-    text-align: center;
-    background-image: url(img/fundo.jpg);
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-    background-size: cover;
+.secao-background-divisao {
+  padding: 50px 0px;
+  text-align: center;
+  background-image: url(img/fundo.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
-.secao-background-divisao h3{
-    font-size: 36px;
-    background-color: rgba(255, 255, 255, 0.596);
-    width: 200px;
-    margin: 0 auto;
-    border-radius: 10px;
+.secao-background-divisao h3 {
+  font-size: 36px;
+  background-color: rgba(255, 255, 255, 0.596);
+  width: 200px;
+  margin: 0 auto;
+  border-radius: 10px;
 }
 
-
-.footer{
-    padding: 10px;
-    background-color: black;
-    text-align: center;
-    margin: 0;
-    height: 50px;
-    color: white;
+.footer {
+  padding: 10px;
+  background-color: black;
+  text-align: center;
+  margin: 0;
+  height: 50px;
+  color: white;
 }
 
-.footer a{
-    color: white;
-    text-decoration: none;
+.footer a {
+  color: white;
+  text-decoration: none;
 }
 
-.footer a:hover{
-    text-decoration: underline;
+.footer a:hover {
+  text-decoration: underline;
 }
-
-
